@@ -1,0 +1,2 @@
+rootProject.name = 'openenum'
+include('lib')
